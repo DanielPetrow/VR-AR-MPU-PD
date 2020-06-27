@@ -1,4 +1,4 @@
-# Индивидуальный план работы Усвяцов А.Д.
+# Индивидуальный план работы Усвяцова А.Д.
 1. Подготовка необходимого ПО.
 2. Прохождение курса Pluralsight - Maya Modeling Fundamentals по Autodesk Maya.
 3. Прохождение курса Pluralsight - Bifrost для Maya.

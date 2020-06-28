@@ -186,8 +186,15 @@ http://xn--80aamsnv.xn--p1acf/
 Создание 3D модели - 22 часа
 
 
+
 #### Рахметов Р.Р.
-*действия, время*
+Просмотр курса Pluralsight - Maya Modeling Fundamentals по Autodesk Maya - 14 часов.
+
+Создание 3D модели коптера - 17 часов.
+
+Просмотр курса Pluralsight - Bifrost для Maya - 9 часов.
+
+Работа над созданием визуализации жидкости Bifrost - 22 часа.
 
 
 
